@@ -17,7 +17,3 @@ The program takes a starting time from the user and updates the clock every seco
 - `Sleep()` function
 - Console screen clearing
 - Input validation
-
-## 🛠️ Requirements
-- C Compiler (GCC / MinGW)
-- Windows OS (uses `windows.h`)
